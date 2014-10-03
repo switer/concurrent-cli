@@ -1,30 +1,33 @@
 {
-    "name": "concurrent-cli",
-    "version": "0.1.0",
-    "description": "Cli tool use for concurrent command running",
-    "author": {
-        "name": "switer"
-    },
-    "scripts": {
-        "test": "node test/bin.test"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git@github.com:switer/concurrent-cli.git"
-    },
-    "bugs": {
-        "url": "https://github.com/switer/concurrent-cli/issues"
-    },
-    "homepage": "https://github.com/switer/concurrent-cli",
-    "main": "lib/concurrent-cli.js",
-    "bin": {
-        "concurrent-cli": "lib/cli-wrapper.js"
-    },
-    "engines": {
-        "node": ">=0.6.0"
-    },
-    "dependencies": {
-        "colors": "^0.6.2"
-    },
-    "readmeFilename": "README.md"
+  "name": "concurrent-cli",
+  "version": "0.1.0",
+  "description": "Cli tool use for concurrent command running",
+  "author": {
+    "name": "switer"
+  },
+  "scripts": {
+    "test": "node test/bin.test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:switer/concurrent-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/switer/concurrent-cli/issues"
+  },
+  "homepage": "https://github.com/switer/concurrent-cli",
+  "main": "lib/concurrent-cli.js",
+  "bin": {
+    "concurrent-cli": "lib/cli-wrapper.js"
+  },
+  "engines": {
+    "node": ">=0.6.0"
+  },
+  "dependencies": {
+    "colors": "^0.6.2"
+  },
+  "readmeFilename": "README.md",
+  "readme": "concurrent-cli\r\n==============\r\n\r\nCli tool use for concurrent command running.\r\n",
+  "_id": "concurrent-cli@0.1.0",
+  "_from": "concurrent-cli@"
 }
