@@ -25,9 +25,5 @@
   },
   "dependencies": {
     "colors": "^0.6.2"
-  },
-  "readmeFilename": "README.md",
-  "readme": "concurrent-cli\r\n==============\r\n\r\nCli tool use for concurrent command running.\r\n",
-  "_id": "concurrent-cli@0.1.0",
-  "_from": "concurrent-cli@"
+  }
 }
