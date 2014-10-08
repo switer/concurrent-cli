@@ -1,6 +1,6 @@
 {
   "name": "concurrent-cli",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Cli tool use for concurrent command running",
   "author": {
     "name": "switer"
