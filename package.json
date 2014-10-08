@@ -6,7 +6,8 @@
     "name": "switer"
   },
   "scripts": {
-    "test": "node test/bin.test"
+    "test": "node test/bin.test",
+    "deploy": "dos2unix lib/cli-wrapper.js & npm publish"
   },
   "repository": {
     "type": "git",
